@@ -1080,7 +1080,7 @@ a {
   }
 }
 .cid-ttnz3pxJAS {
-  padding-top: 5rem;
+  padding-top: 4rem;
   padding-bottom: 5rem;
   background: #000000;
 }
@@ -1136,7 +1136,7 @@ a {
 .cid-ttnz3pxJAS .card-wrapper {
   display: flex;
   border-radius: 4px;
-  background: #fafafa;
+  background: #bbbbbb;
 }
 .cid-ttnz3pxJAS .card-wrapper:not(:nth-last-child(1)) {
   margin-bottom: 2rem;
