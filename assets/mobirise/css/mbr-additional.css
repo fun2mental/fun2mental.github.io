@@ -1070,9 +1070,13 @@ a {
 .cid-ttn0OjwFOX .mbr-description {
   text-align: center;
 }
+.cid-ttn0OjwFOX .text-wrapper {
+  padding: 1rem;
+}
 @media (min-width: 992px) {
   .cid-ttn0OjwFOX .text-wrapper {
     padding: 2rem;
+    padding-left: 4rem;
   }
 }
 .cid-ttnz3pxJAS {
