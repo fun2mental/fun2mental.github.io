@@ -1372,6 +1372,7 @@ a {
 .cid-tD9NPIsJgL {
   padding-top: 6rem;
   padding-bottom: 6rem;
+  background-image: url("../../../assets/images/mbr-1920x1277.jpg");
 }
 .cid-tD9NPIsJgL .mbr-fallback-image.disabled {
   display: none;
@@ -1384,7 +1385,6 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
-  background-image: url("../../../assets/images/background13.jpg");
 }
 .cid-tD9NPIsJgL .row {
   margin-left: 0;
