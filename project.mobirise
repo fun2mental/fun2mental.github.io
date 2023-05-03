@@ -844,7 +844,7 @@
               }
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ec2a2a"
             },
             ".mbr-text": {
               "color": "#ffffff"
@@ -1146,6 +1146,9 @@
             },
             "H6": {
               "text-align": "center"
+            },
+            "H3": {
+              "color": "#ec2a2a"
             }
           },
           "_name": "gallery4",
