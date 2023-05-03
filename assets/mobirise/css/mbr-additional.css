@@ -1331,6 +1331,7 @@ a {
 .cid-ttn0OjwFOX {
   padding-top: 5rem;
   padding-bottom: 0rem;
+  background-color: #000000;
 }
 .cid-ttn0OjwFOX .mbr-fallback-image.disabled {
   display: none;
@@ -1343,7 +1344,6 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
-  background-image: url("../../../assets/images/background13.jpg");
 }
 .cid-ttn0OjwFOX .row {
   flex-direction: row-reverse;
