@@ -1865,7 +1865,7 @@ a {
 .cid-tD9yVtDpQp {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-tD9yVtDpQp .mbr-fallback-image.disabled {
   display: none;
@@ -1914,4 +1914,9 @@ a {
 .cid-tD9yVtDpQp [class*=" socicon-"]:before {
   line-height: 55px;
   padding: .6rem;
+}
+.cid-tD9yVtDpQp .mbr-section-title,
+.cid-tD9yVtDpQp .social-list {
+  color: #ec2a2a;
+  text-align: center;
 }
